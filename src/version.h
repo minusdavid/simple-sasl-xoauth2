@@ -1,0 +1,1 @@
+#define VERSION_STRING "26.06.00"
